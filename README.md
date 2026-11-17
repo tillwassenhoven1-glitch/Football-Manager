@@ -1,16 +1,20 @@
 # ⚽ Football Manager
 
-Ein Fußball-Manager-Spiel direkt im Browser – übernimm einen Verein und führe ihn zur Meisterschaft! 🏆
+Ein Fußball-Manager-Spiel direkt im Browser – übernimm einen Verein, triff schwere Entscheidungen, überstehe Pech und führe dein Team zur Meisterschaft! 🏆
 
 **▶️ Jetzt spielen:** https://tillwassenhoven1-glitch.github.io/Football-Manager/
 
 ## 🎮 Features
-- 🏟️ **10 Vereine** zur Auswahl – vom Titelfavoriten bis zum Underdog
-- 👥 **Kader & Aufstellung** – Formation (4-4-2, 4-3-3, 3-5-2 …) und Spielweise wählen
-- ⚽ **Live-Spiele** mit Ticker, Toren, Karten und Paraden
-- 📊 **Tabelle, Ergebnisse & Torjägerliste**
-- 💸 **Transfermarkt** – Spieler kaufen und verkaufen, Budget im Blick behalten
-- 🔋 Fitness, Spielerentwicklung & mehrere Saisons
+- 🏟️ **10 Vereine** – vom Titelfavoriten bis zum Underdog, jeder mit eigenem Saisonziel
+- 👥 **Kader & Aufstellung** – Formation, Spielweise, Fitness & Moral jedes Spielers
+- ⚽ **Live-Spiele** mit Ticker – inkl. Halbzeit-Ansprache, Taktikwechsel & Auswechslungen
+- 🍀 **Pech & Glück** – Verletzungen, Rote Karten, Sperren, Pfostentreffer, aberkannte Tore, Grippewellen
+- 🤔 **Entscheidungen mit Folgen** – Gehaltsforderungen, Party-Skandale, Sponsoren, Transfer-Angebote, Fan-Proteste, Pressekonferenzen …
+- 📣 **Fans** – Stimmung, Zuschauer & Ticketpreise
+- 👔 **Vorstand** – erfülle das Saisonziel, sonst wirst du entlassen!
+- 🏋️ **Training** – Locker, Normal, Hart, Taktik oder Teambuilding
+- 🏗️ **Verein ausbauen** – Stadion, Trainingszentrum & Jugendakademie
+- 💸 **Transfermarkt**, 📰 News, 📊 Tabelle, 🥇 Torjäger & mehrere Saisons
 - 💾 Automatisches Speichern im Browser
 - 🔒 Geheimes Cheat-Menü
 
