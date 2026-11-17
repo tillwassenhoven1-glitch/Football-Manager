@@ -19,6 +19,6 @@ Ein Fußball-Manager-Spiel direkt im Browser – übernimm einen Verein, triff s
 - 🔒 Geheimes Cheat-Menü
 
 ## 📌 Version
-**v0.1 Open Beta**
+**Version 0.0.2 Open Beta**
 
 Erstellt von Till 🚀
